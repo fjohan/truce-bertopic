@@ -1,0 +1,41 @@
+
+├─ethnoveterinary_herbal_medicinal_plants_plant
+│    ├─■──phytochemical_antioxidant_herbal_medicinal_extracts ── Topic: 4
+│    └─medicinal_ethnoveterinary_ethnobotanical_plants_plant
+│         ├─■──ethnoveterinary_ethnobotanical_medicinal_livestock_plants ── Topic: 5
+│         └─■──insects_insect_pests_nutritional_edible ── Topic: 12
+└─indigenous_climate_knowledge_farmers_environmental
+     ├─indigenous_knowledge_climate_farmers_cultural
+     │    ├─indigenous_cultural_knowledge_ecological_africa
+     │    │    ├─education_curriculum_educational_afrikaans_indigenous
+     │    │    │    ├─■──indigenous_mathematics_education_learners_teaching ── Topic: 17
+     │    │    │    └─education_curriculum_educational_indigenous_educators
+     │    │    │         ├─■──indigenous_pedagogical_education_knowledge_sciences ── Topic: 10
+     │    │    │         └─education_indigenous_educational_literacy_afrikaans
+     │    │    │              ├─education_curriculum_educational_indigenous_educators
+     │    │    │              │    ├─■──indigenous_education_educators_educational_literacy ── Topic: 3
+     │    │    │              │    └─■──education_curriculum_educational_decolonisation_pedagogical ── Topic: 8
+     │    │    │              └─■──indigenous_african_postcolonial_afrikaans_cultural ── Topic: 6
+     │    │    └─indigenous_knowledge_cultural_ecological_research
+     │    │         ├─■──indigenous_wildlife_species_reptiles_african ── Topic: 13
+     │    │         └─indigenous_knowledge_cultural_ecological_research
+     │    │              ├─indigenous_health_practices_healthcare_practitioners
+     │    │              │    ├─■──practitioners_medicine_indigenous_medical_health ── Topic: 9
+     │    │              │    └─■──indigenous_aboriginal_maori_qualitative_practices ── Topic: 11
+     │    │              └─indigenous_ecological_biodiversity_knowledge_cultural
+     │    │                   ├─indigenous_ecological_biodiversity_environmental_nature
+     │    │                   │    ├─■──indigenous_ict_tribal_cultural_heritage ── Topic: 16
+     │    │                   │    └─indigenous_biodiversity_ecological_knowledge_nature
+     │    │                   │         ├─■──indigenous_archiving_heritage_knowledge_icts ── Topic: 7
+     │    │                   │         └─indigenous_ecological_environmental_biodiversity_nature
+     │    │                   │              ├─■──indigenous_agriculture_agricultural_agroecological_farmers ── Topic: 1
+     │    │                   │              └─■──indigenous_fisheries_biodiversity_ecological_ecosystems ── Topic: 0
+     │    │                   └─■──indigenous_aboriginal_coloniality_kinship_culturally ── Topic: 18
+     │    └─climate_climatic_drought_indigenous_rainfall
+     │         ├─■──climate_climatic_drought_livelihoods_agricultural ── Topic: 2
+     │         └─■──indigenous_climate_knowledge_africa_resilience ── Topic: 14
+     └─■──maori_indigenous_zealand_hawaiian_bicultural ── Topic: 15
+
+
+
+
