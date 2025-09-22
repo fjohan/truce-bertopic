@@ -16,8 +16,7 @@ Using hierarchical topic modeling makes it possible to see both general grouping
 
 | Type | Files | Purpose |
 |------|-------|---------|
-| **Data** | `kno_sys_AB_shuf.txt`, `kno_sys_TI_shuf.txt` | Raw text files containing research abstracts. |
-| **Visualizations** | `kno_sys_AB_hierarchy.html`, `kno_sys_AB_docs_datamap.html` | Visualizations from BERTopic:  
+| **Visualizations** | `kno_sys_AB_hierarchy.html` | Visualizations from BERTopic:  
 | **Code** | Python and Bash scripts | Scripts for building BERTopic models, seeding topics, generating visualizations, and analyzing outputs. |
 | **Utilities** | `my_topic_utils.py` | Helper functions for working with BERTopic topic trees and document–topic distributions. |
 
