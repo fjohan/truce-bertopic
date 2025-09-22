@@ -16,7 +16,7 @@ Using hierarchical topic modeling makes it possible to see both general grouping
 
 | Type | Files | Purpose |
 |------|-------|---------|
-| **Visualizations** | `kno_sys_AB_hierarchy.html` | Visualizations from BERTopic:  
+| **Visualizations** | `kno_sys_AB_hierarchy.html` | Visualization from BERTopic  
 | **Code** | Python and Bash scripts | Scripts for building BERTopic models, seeding topics, generating visualizations, and analyzing outputs. |
 | **Utilities** | `my_topic_utils.py` | Helper functions for working with BERTopic topic trees and document–topic distributions. |
 
@@ -31,7 +31,6 @@ Using hierarchical topic modeling makes it possible to see both general grouping
 
 - **HTML visualizations**  
   - **Hierarchy**: interactive view of topic merges, useful for exploring general vs. specific groupings.  
-  - **Datamap**: shows each abstract as a point in embedding space, colored by topic, making relationships between documents more tangible.
 
 ---
 
@@ -41,11 +40,6 @@ Using hierarchical topic modeling makes it possible to see both general grouping
   - The leftmost / top-level nodes correspond to the most general clusters.  
   - Nested nodes represent progressively more specific topics.  
   - Leaf nodes (`■── Topic: N`) are the original un-grouped topics accessible via `topic_model.get_topic(N)`.
-
-- **Document-datamap**  
-  - Each abstract is visualized in 2D based on its embeddings.  
-  - Color indicates topic assignment.  
-  - Clusters in the plot help reveal structural relations between documents.
 
 - **Topic inspection for a document**  
   - A single abstract can be mapped to a distribution of topics.  
