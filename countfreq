@@ -1,0 +1,2 @@
+sed 's/ /\n/g' kno_sys_AB_shuf.txt | sed 's/[\.,]$//g' | sed -e 's/\(.*\)/\L\1/' | sort | uniq -c | sort -nrk 1,1
+
