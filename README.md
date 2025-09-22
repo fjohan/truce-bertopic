@@ -55,24 +55,64 @@ Using hierarchical topic modeling makes it possible to see both general grouping
 
 ---
 
+## 📊 Tentative Outcomes
+
+From the current hierarchical topic model, two broad thematic clusters emerge:
+
+---
+
+### 1. Knowledge-based / formal systems
+Covers computational, educational, managerial, and cultural/heritage aspects of “knowledge”.
+
+- **Computational & logic models**  
+  - Logic, queries, semantics (Topic 3)  
+  - Materials/microstructure frameworks (Topic 15)  
+- **Applied knowledge in organizations and design**  
+  - Decision support and expert systems (Topic 16)  
+  - Knowledge/data/ontology for domains (Topic 7, Topic 8)  
+  - Knowledge management & innovation (Topic 2)  
+  - Product design & manufacturing processes (Topic 11)  
+- **Teaching and learning**  
+  - Pedagogy, students, courses (Topic 1)  
+- **Memory, culture, and heritage**  
+  - Cultural heritage and digitization (Topic 17)  
+  - Science, wisdom, social knowledge (Topic 18)  
+  - Cognitive/brain/visual aspects (Topic 13)
+
+---
+
+### 2. Indigenous and local knowledge systems
+Focuses on *knowledge systems embedded in local, ecological, and cultural contexts*.
+
+- **Climate change and adaptation**  
+  - Farmers and weather knowledge (Topic 20)  
+  - Indigenous adaptation and peoples (Topic 19)  
+  - Disaster risk and floods (Topic 14)  
+- **Health, education, and sustainability**  
+  - Indigenous knowledge in education and health (Topic 0)  
+  - Links to sustainability and science (Topic 12)  
+- **Conservation and ecology**  
+  - Biodiversity and ecosystems (Topic 5)  
+  - Fisheries and coastal/marine management (Topic 9)  
+- **Agriculture and food systems**  
+  - Forest and traditional practices (Topic 10)  
+  - Farmers, food, agriculture (Topic 6)  
+- **Medicinal plants**  
+  - Traditional species and plant knowledge (Topic 4)
+
+---
+
+**Takeaway:**  
+The notion of *knowledge systems* in the corpus splits into two overarching uses:  
+(1) as **formalized, technical frameworks** (models, ontologies, education, heritage), and  
+(2) as **embedded, community-based practices** (indigenous, agricultural, ecological, medicinal).
+
+---
+
 ## 💡 Notes and Possible Next Steps
 
 - Seed domain-specific keywords (e.g., *indigenous, traditional, agricultural, scientific, western*) to guide topic formation more strongly.  
 - Chunk long texts into smaller units (paragraphs/sentences) to allow multi-theme topic mixtures.  
 - Export static images (PNG, SVG) from the HTML visualizations for reports or publications.  
 - Explore stability of topics across different parameter choices (`min_topic_size`, embedding models).  
-
----
-
-## 📄 License
-
-Add your license information here (e.g. MIT, Apache 2.0).
-
----
-
-## 🙋 Contact
-
-For questions or suggestions, please open an issue in this repo.
-
-
 
