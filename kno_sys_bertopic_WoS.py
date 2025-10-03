@@ -43,7 +43,7 @@ embeddings = sentence_model.encode(abstracts, show_progress_bar=True)
 vectorizer = CountVectorizer(stop_words="english")
 umap_model = UMAP(n_neighbors=15, n_components=5, min_dist=0.0, metric='cosine', random_state=42)
 # Choose one:
-hdbscan_model = HDBSCAN(min_cluster_size=55, min_samples=2, metric='euclidean', cluster_selection_method='eom')
+hdbscan_model = HDBSCAN(min_cluster_size=80, min_samples=2, metric='euclidean', cluster_selection_method='eom')
 #hdbscan_model = HDBSCAN(min_cluster_size=80, min_samples=2, metric='euclidean', cluster_selection_method='eom')
 
 # ---------- Fit BERTopic on ABSTRACTS ----------
@@ -58,7 +58,7 @@ print(topic_model.get_topic_info())
 # ---------- Hierarchical topics ----------
 hierarchical_topics = topic_model.hierarchical_topics(abstracts)
 fig_h = topic_model.visualize_hierarchy(hierarchical_topics=hierarchical_topics)
-fig_h.write_html("TI_AB_hierarchy.html")
+fig_h.write_html("TI_AB_hierarchy_aqures.html")
 
 # Optional: grouped labels from your custom tree printer
 tree_groups = get_topic_tree(hierarchical_topics, list_groups=True, indent_output=True)
@@ -74,7 +74,7 @@ datamap = topic_model.visualize_document_datamap(
     embeddings=embeddings,
     interactive=True
 )
-datamap.save("TI_AB_titles_datamap.html")
+datamap.save("TI_AB_titles_datamap_aqures.html")
 
 print("Saved: TI_AB_hierarchy.html and TI_AB_titles_datamap.html")
 
