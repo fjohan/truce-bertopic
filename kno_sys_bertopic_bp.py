@@ -38,8 +38,8 @@ html.write_html("kno_sys_AB_hierarchy.html")
 # tree groups
 tree = get_topic_tree(hierarchical_topics, list_groups=True, indent_output=True)
 print(tree)
-#tree = get_topic_tree(hierarchical_topics)
-#print(tree)
+tree = get_topic_tree(hierarchical_topics)
+print(tree)
 
 # datamap
 html = topic_model.visualize_document_datamap(documents, embeddings=embeddings, interactive=True)

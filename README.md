@@ -48,57 +48,68 @@ Using hierarchical topic modeling makes it possible to see both general grouping
 
 ---
 
-## 📊 Tentative Outcomes
+## 📊 Tentative Outcomes (updated)
 
 From the current hierarchical topic model, two broad thematic clusters emerge:
 
 ---
 
-### 1. Knowledge-based / formal systems
-Covers computational, educational, managerial, and cultural/heritage aspects of “knowledge”.
+### 1. Indigenous and local knowledge systems  
+Emphasizes practice-based, ecological, and community contexts.
 
-- **Computational & logic models**  
-  - Logic, queries, semantics (Topic 3)  
-  - Materials/microstructure frameworks (Topic 15)  
-- **Applied knowledge in organizations and design**  
-  - Decision support and expert systems (Topic 16)  
-  - Knowledge/data/ontology for domains (Topic 7, Topic 8)  
-  - Knowledge management & innovation (Topic 2)  
-  - Product design & manufacturing processes (Topic 11)  
-- **Teaching and learning**  
-  - Pedagogy, students, courses (Topic 1)  
-- **Memory, culture, and heritage**  
-  - Cultural heritage and digitization (Topic 17)  
-  - Science, wisdom, social knowledge (Topic 18)  
-  - Cognitive/brain/visual aspects (Topic 13)
-
----
-
-### 2. Indigenous and local knowledge systems
-Focuses on *knowledge systems embedded in local, ecological, and cultural contexts*.
-
-- **Climate change and adaptation**  
-  - Farmers and weather knowledge (Topic 20)  
-  - Indigenous adaptation and peoples (Topic 19)  
-  - Disaster risk and floods (Topic 14)  
-- **Health, education, and sustainability**  
-  - Indigenous knowledge in education and health (Topic 0)  
-  - Links to sustainability and science (Topic 12)  
-- **Conservation and ecology**  
-  - Biodiversity and ecosystems (Topic 5)  
-  - Fisheries and coastal/marine management (Topic 9)  
-- **Agriculture and food systems**  
-  - Forest and traditional practices (Topic 10)  
-  - Farmers, food, agriculture (Topic 6)  
 - **Medicinal plants**  
-  - Traditional species and plant knowledge (Topic 4)
+  - Traditional plant/medicine knowledge (Topic 10)
+
+- **Education, sustainability, and policy**  
+  - Ecosystem services, biodiversity values, IPBES (Topic 16)  
+  - Sustainability, climate, adaptation policies (Topic 6)  
+  - Indigenous peoples’ climate knowledge (Topic 3)  
+  - Indigenous knowledge in education/research systems (Topic 0)
+
+- **Local resource management & agriculture**  
+  - Fisheries, coastal & marine knowledge (Topic 7)  
+  - Species/biodiversity conservation (Topic 13)  
+  - Forests & indigenous conservation practices (Topic 9)  
+  - Farmers, soil, and food systems (Topic 2)
+
+- **Climate change & risk**  
+  - Farmers’ weather and adaptation knowledge (Topic 5)  
+  - Disaster risk and floods (Topic 15)
 
 ---
 
-**Takeaway:**  
-The notion of *knowledge systems* in the corpus splits into two overarching uses:  
-(1) as **formalized, technical frameworks** (models, ontologies, education, heritage), and  
-(2) as **embedded, community-based practices** (indigenous, agricultural, ecological, medicinal).
+### 2. Knowledge systems as formal/technical models  
+Covers comparative traditions, cognitive/semantic systems, and applied models.
+
+- **Comparative knowledge traditions**  
+  - Chinese/Western medical systems (Topic 17)  
+  - Indian/Sanskrit/colonial education traditions (Topic 19)
+
+- **Cognition, science, and digital knowledge**  
+  - Memory, brain, semantic knowledge (Topic 12)  
+  - Science as human/social knowledge (Topic 8)  
+  - AI, open science, digital knowledge infrastructures (Topic 18)
+
+- **Applied models & design**  
+  - Medical/TCM disease knowledge (Topic 14)  
+  - Innovation, management & performance (Topic 4)  
+  - Model/design systems (Topic 1)  
+  - Teaching, learning, students & education (Topic 11)
+
+- **Engineering frameworks**  
+  - Materials microstructure & MKS frameworks (Topic 20)
+
+---
+
+### 🔑 Takeaway
+The notion of *knowledge systems* in the corpus splits into two overarching uses:
+
+1. **Embedded/local practices** — indigenous knowledge, agriculture, fisheries, biodiversity, adaptation, and traditional medicine.  
+2. **Formalized systems** — scientific models, cognitive/semantic frameworks, AI/digital knowledge, cross-cultural knowledge traditions, and organizational/educational models.  
+
+Delving deeper:  
+- The *indigenous/local* side shows sub-themes (policy/IPBES, disaster risk, agriculture).  
+- The *formal/technical* side surfaces cross-cultural comparisons (Chinese/Western, Indian/colonial) alongside technical knowledge models.
 
 ---
 
