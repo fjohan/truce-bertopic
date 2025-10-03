@@ -30,8 +30,8 @@ Using hierarchical topic modeling makes it possible to see both general grouping
   - `show_top_topics_for_doc(...)` — given a document, print its top topic contributions with probabilities and representative terms.
 
 - **HTML visualizations**  
-  - **Hierarchy**: interactive view of topic merges, useful for exploring general vs. specific groupings. [Link]((https://fjohan.github.io/truce-bertopic/TI_AB_hierarchy.html)
-  - **Datamap**: shows each abstract as a point in embedding space, colored by topic, making relationships between documents more tangible. [Link]((https://fjohan.github.io/truce-bertopic/TI_AB_titles_datamap.html)
+  - **Hierarchy**: interactive view of topic merges, useful for exploring general vs. specific groupings. [Link](https://fjohan.github.io/truce-bertopic/TI_AB_hierarchy.html)
+  - **Datamap**: shows each abstract as a point in embedding space, colored by topic, making relationships between documents more tangible. [Link](https://fjohan.github.io/truce-bertopic/TI_AB_titles_datamap.html)
 
 
 ---
