@@ -35,7 +35,7 @@ Using hierarchical topic modeling makes it possible to see both general grouping
   - [Link](https://fjohan.github.io/truce-bertopic/bio_los_hierarchy_32.html)
   - [Link](https://fjohan.github.io/truce-bertopic/bio_los_datamap_32.html)
   - [Link](https://fjohan.github.io/truce-bertopic/lyrics_docs_datamap_custom_labels.html)
-  - [Link](https://fjohan.github.io/truce-bertopic/lyrics_docs_datamap_custom_labels.html)
+  - [Link](https://fjohan.github.io/truce-bertopic/lyrics_docs_datamap_by_artist.html)
 
 ---
 
