@@ -32,9 +32,10 @@ Using hierarchical topic modeling makes it possible to see both general grouping
 - **HTML visualizations**  
   - **Hierarchy**: interactive view of topic merges, useful for exploring general vs. specific groupings. [Link](https://fjohan.github.io/truce-bertopic/TI_AB_hierarchy.html)
   - **Datamap**: shows each abstract as a point in embedding space, colored by topic, making relationships between documents more tangible. [Link](https://fjohan.github.io/truce-bertopic/TI_AB_titles_datamap.html)
-  - [Link](https://fjohan.github.io/truce-bertopic/bio_los_hierarchy_32.html
-  - [Link](https://fjohan.github.io/truce-bertopic/bio_los_datamap_32.html
-  - [Link](https://fjohan.github.io/truce-bertopic/bio_los_datamap_32.html
+  - [Link](https://fjohan.github.io/truce-bertopic/bio_los_hierarchy_32.html)
+  - [Link](https://fjohan.github.io/truce-bertopic/bio_los_datamap_32.html)
+  - [Link](https://fjohan.github.io/truce-bertopic/lyrics_docs_datamap_custom_labels.html)
+  - [Link](https://fjohan.github.io/truce-bertopic/lyrics_docs_datamap_custom_labels.html)
 
 ---
 
